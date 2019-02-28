@@ -1,4 +1,4 @@
-This is a forked version of ['Syncfusion ej2-grids'] (https://github.com/syncfusion/ej2-grids/). 
+This is a forked version of ['Syncfusion ej2-grids'](https://github.com/syncfusion/ej2-grids/). 
 
 # ej2-grids
 
